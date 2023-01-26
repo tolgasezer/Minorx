@@ -1,1 +1,1 @@
-# Minorx
+#Kodluyoruz html odevleri 
